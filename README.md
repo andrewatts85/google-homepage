@@ -1,4 +1,4 @@
 google-homepage
 ===============
-Project: HTML/CSS
-theodinproject.com
+Project: HTML/CSS<br>
+<a href="http://www.theodinproject.com/">theodinproject.com</a>
